@@ -42,13 +42,6 @@ namespace DandDCharacter
 
 
                 }
-                /*               
-                _Character Charter = DandDCharacter.GenerateCharacter();
-                DandDCharacter.DisplayCharacter(Charter);
-                DandDCharacter.SaveCharacter(Charter);
-                Charter = DandDCharacter.LoadCharacter(Charter);
-                DandDCharacter.DisplayCharacter(Charter);
-                */
             }
 
         }
