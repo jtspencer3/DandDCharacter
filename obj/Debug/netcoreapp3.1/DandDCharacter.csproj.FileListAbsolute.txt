@@ -1,0 +1,11 @@
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.exe
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.deps.json
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.runtimeconfig.json
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.runtimeconfig.dev.json
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.dll
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\bin\Debug\netcoreapp3.1\DandDCharacter.pdb
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\obj\Debug\netcoreapp3.1\DandDCharacter.csprojAssemblyReference.cache
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\obj\Debug\netcoreapp3.1\DandDCharacter.AssemblyInfoInputs.cache
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\obj\Debug\netcoreapp3.1\DandDCharacter.AssemblyInfo.cs
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\obj\Debug\netcoreapp3.1\DandDCharacter.dll
+C:\Users\PutYoJammiesOn\Desktop\C# Practice\DandDCharacter\obj\Debug\netcoreapp3.1\DandDCharacter.pdb
